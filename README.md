@@ -78,7 +78,7 @@ The hands-on projects such as "Thumbs" and "Face XY" ensure that you not only un
 
 <p style="text-align:center">
     <a href="https://learn.nvidia.com/en-us/training/instructor-led-workshops" target="_blank">
-    <img src="images/Workshop_Outline_Getting_Started_Jetson_EdgeAI" alt="NVIDIA-DLI---Getting-Started-with-AI-in-Jetson"  />
+    <img src="images/Workshop_Outline_Getting_Started_Jetson_EdgeAI.png" alt="NVIDIA-DLI---Getting-Started-with-AI-in-Jetson"  />
     </a>
 </p>
 
@@ -86,6 +86,6 @@ The hands-on projects such as "Thumbs" and "Face XY" ensure that you not only un
 
 <p style="text-align:center">
     <a href="https://learn.nvidia.com/certificates?id=c2b5e792bba44971a17ab524d58fc9c8&trk" target="_blank">
-    <img src="images/CC_Getting_Started_with_AI_on_Jetson" alt="NVIDIA-DLI---Getting-Started-with-AI-in-Jetson"  />
+    <img src="images/CC_Getting_Started_with_AI_on_Jetson.png" alt="NVIDIA-DLI---Getting-Started-with-AI-in-Jetson"  />
     </a>
 </p>
