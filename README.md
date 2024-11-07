@@ -91,3 +91,71 @@ The hands-on projects such as "Thumbs" and "Face XY" ensure that you not only un
     <img src="images/CC_Getting_Started_with_AI_on_Jetson.png" alt="NVIDIA-DLI---Getting-Started-with-AI-in-Jetson"  />
     </a>
 </p>
+
+# NVIDIA Jetson Nano: Edge Computing and Robotics Platform
+
+The NVIDIA Jetson Nano is a compact, efficient, and cost-effective platform designed to empower edge computing and robotics applications. From AI research to real-world deployment, the Jetson Nano brings powerful computing capabilities to developers, educators, and industry professionals alike.
+
+## Key Features
+
+### 1. AI and Machine Learning at the Edge
+- **GPU-Accelerated AI**: Equipped with a 128-core NVIDIA Maxwell GPU, the Jetson Nano delivers the computational power required for complex AI tasks, including:
+  - Object detection
+  - Image classification
+  - Natural language processing (NLP)
+
+  These capabilities allow for real-time AI applications without relying on cloud connectivity, which is essential for latency-sensitive and offline environments.
+
+- **Edge Computing**: With the ability to perform inference locally, Jetson Nano reduces latency and enhances reliability. Ideal for applications such as:
+  - Security cameras
+  - Autonomous robots
+  - IoT systems
+
+- **Support for Popular AI Frameworks**: Compatible with major frameworks like TensorFlow, PyTorch, and MXNet, Jetson Nano allows you to deploy pre-trained models or train custom models on the edge.
+
+### 2. Robotics and Autonomous Systems
+- **Low Power Consumption**: Operating at just 5 to 10 watts, Jetson Nano is optimized for battery-powered robots, drones, and other mobile devices, ensuring extended operation times.
+
+- **Sensor Integration and Compatibility**: Includes support for a range of sensors critical to robotics:
+  - Cameras
+  - LIDAR
+  - Ultrasonic sensors
+  - IMUs (Inertial Measurement Units)
+
+  The Nano’s multiple I/O ports enable seamless integration of various sensors for tasks such as navigation, obstacle detection, and environmental mapping.
+
+- **ROS Support**: Fully compatible with the Robot Operating System (ROS), providing access to essential robotics tools and libraries for:
+  - SLAM (Simultaneous Localization and Mapping)
+  - Path planning
+  - Kinematics
+
+### 3. Real-World Applications
+- **Smart Surveillance Systems**: Real-time facial recognition, object tracking, and anomaly detection capabilities make Jetson Nano ideal for edge-based surveillance, only sending critical alerts to central servers when needed.
+
+- **Agricultural Robots**: Enables robots to perform visual inspections, monitor crop health, and assess soil conditions, maximizing yield and reducing the need for high-powered, centralized computing.
+
+- **Healthcare and Assistive Robots**: Small footprint and AI capabilities make it suitable for healthcare applications, such as diagnostic assistance, patient monitoring, and telemedicine support.
+
+### 4. Development and Prototyping
+- **Developer and Educator Friendly**: Jetson Nano offers a comprehensive development environment, compatible with various programming languages and libraries, and includes pre-trained models from NVIDIA’s NGC (NVIDIA GPU Cloud).
+
+- **Community Support**: NVIDIA provides extensive resources, including:
+  - Sample projects
+  - Guides
+  - Forums
+
+  This support makes it easier to develop proof-of-concept applications and iterate on designs quickly.
+
+## Getting Started
+1. **Set Up Your Jetson Nano**: Follow [NVIDIA's setup instructions](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) to install and configure your device.
+2. **Explore AI Projects**: Test pre-trained models or develop custom AI models compatible with TensorFlow, PyTorch, and MXNet.
+3. **Integrate with Robotics**: Use the Robot Operating System (ROS) for integrating Jetson Nano into robotics projects with sensor integration, path planning, and SLAM.
+
+## Additional Resources
+- [Jetson Nano Documentation](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
+- [NVIDIA NGC Catalog](https://ngc.nvidia.com/catalog) - Access pre-trained models and containers
+- [NVIDIA Developer Forums](https://forums.developer.nvidia.com/) - Join the community for troubleshooting and project sharing
+- [Sample Projects on GitHub](https://github.com/NVIDIA-AI-IOT)
+
+## License
+This project is licensed under the terms of the [MIT License](LICENSE).
