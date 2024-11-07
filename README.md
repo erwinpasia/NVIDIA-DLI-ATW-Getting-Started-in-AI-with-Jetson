@@ -146,13 +146,8 @@ The NVIDIA Jetson Nano is a compact, efficient, and cost-effective platform desi
 
   This support makes it easier to develop proof-of-concept applications and iterate on designs quickly.
 
-## Getting Started
-1. **Set Up Your Jetson Nano**: Follow [NVIDIA's setup instructions](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) to install and configure your device.
-2. **Explore AI Projects**: Test pre-trained models or develop custom AI models compatible with TensorFlow, PyTorch, and MXNet.
-3. **Integrate with Robotics**: Use the Robot Operating System (ROS) for integrating Jetson Nano into robotics projects with sensor integration, path planning, and SLAM.
-
 ## Additional Resources
-- [Jetson Nano Documentation](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
+- [Jetson Nano Documentation](https://developer.nvidia.com/embedded)
 - [NVIDIA NGC Catalog](https://ngc.nvidia.com/catalog) - Access pre-trained models and containers
 - [NVIDIA Developer Forums](https://forums.developer.nvidia.com/) - Join the community for troubleshooting and project sharing
 - [Sample Projects on GitHub](https://github.com/NVIDIA-AI-IOT)
