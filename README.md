@@ -1,6 +1,6 @@
 # [NVIDIA DLI - Advanced Technical Workshop: Getting Started in AI with Jetson (Edge AI)](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+C-RX-02+V2) - COMPLETED!
 
-# Getting Started in AI with Jetson (Edge AI)
+# Getting Started in AI with Jetson (Edge AI & Robotics Platform)
 
 This repository provides an overview of the **"Getting Started in AI with Jetson (Edge AI)"** course from NVIDIA. The course introduces learners to the fundamentals of developing AI models using the NVIDIA Jetson Nano, a powerful platform for edge computing.
 
@@ -147,7 +147,7 @@ The NVIDIA Jetson Nano is a compact, efficient, and cost-effective platform desi
   This support makes it easier to develop proof-of-concept applications and iterate on designs quickly.
 
 ## Additional Resources
-- [Jetson Nano Documentation](https://developer.nvidia.com/embedded)
+- [Jetson Nano Documentation](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
 - [NVIDIA NGC Catalog](https://ngc.nvidia.com/catalog) - Access pre-trained models and containers
 - [NVIDIA Developer Forums](https://forums.developer.nvidia.com/) - Join the community for troubleshooting and project sharing
 - [Sample Projects on GitHub](https://github.com/NVIDIA-AI-IOT)
