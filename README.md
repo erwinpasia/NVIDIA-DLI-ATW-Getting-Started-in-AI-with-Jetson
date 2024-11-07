@@ -1,5 +1,7 @@
 # [NVIDIA DLI - Advanced Technical Workshop: Getting Started in AI with Jetson (Edge AI)](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+C-RX-02+V2) - COMPLETED!
 
+# Getting Started in AI with Jetson (Edge AI)
+
 This repository provides an overview of the **"Getting Started in AI with Jetson (Edge AI)"** course from NVIDIA. The course introduces learners to the fundamentals of developing AI models using the NVIDIA Jetson Nano, a powerful platform for edge computing.
 
 ## Learning Objectives
