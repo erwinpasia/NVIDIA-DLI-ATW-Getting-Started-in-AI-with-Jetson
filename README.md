@@ -92,7 +92,7 @@ The hands-on projects such as "Thumbs" and "Face XY" ensure that you not only un
     </a>
 </p>
 
-# NVIDIA Jetson Nano: Edge Computing and Robotics Platform
+# [NVIDIA Jetson Nano: Edge Computing and Robotics Platform](https://www.hackster.io/search?i=projects&q=Jetson)
 
 The NVIDIA Jetson Nano is a compact, efficient, and cost-effective platform designed to empower edge computing and robotics applications. From AI research to real-world deployment, the Jetson Nano brings powerful computing capabilities to developers, educators, and industry professionals alike.
 
